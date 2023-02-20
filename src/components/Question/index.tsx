@@ -1,6 +1,5 @@
 import Button from 'components/Button';
 import "./Question.css";
-import { useState } from 'react';
 
 export type Product = {
   id: number,
